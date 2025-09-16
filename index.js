@@ -7,7 +7,7 @@ function abcd(){
 }
 let a = abcd()
 console.log(a());
-console.log(a())
+console.log(a());
 console.log(a())
 console.log(a())
 
