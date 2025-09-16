@@ -1,8 +1,8 @@
 function abcd(){
     let count = 0;
     return function(){
-         count++
-         return count
+         count++;
+         return count;
     }
 }
 let a = abcd()
